@@ -1,6 +1,6 @@
 
 ### Olá, eu sou Icaro Ramos 🤙
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/src_icaro/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jpeg.icaro/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icarowillams&show_icons=true&theme=dark)
